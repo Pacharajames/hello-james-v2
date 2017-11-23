@@ -1,5 +1,6 @@
 FROM node:4.4.6
 WORKDIR /src/hello-james
+COPY package.json .
 
 RUN npm install
 
