@@ -1,0 +1,22 @@
+{
+  "name": "hello-james-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pacharajames/hello-james-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pacharajames/hello-james-v2/issues"
+  },
+  "homepage": "https://github.com/Pacharajames/hello-james-v2#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
